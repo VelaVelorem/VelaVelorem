@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Next.js, Tailwind CSS**
 
-- 📫 How to reach me *Haneefah207@gmail.com*
-
 - 💬 Ask me about **collaborating, I like brainstorming project ideas with others!**
 
 - ⚡ Fun fact **I've been practicing archery for a year!**
