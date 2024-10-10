@@ -2,8 +2,6 @@
 
 <h3 align="center">Recent graduate of Nucamp from Southern Maryland!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=velavelorem&label=Profile%20views&color=0e75b6&style=flat" alt="velavelorem" /> </p>
-
 - 🔭 I’m currently working on **Recipe Finder App, Portfolio**
 
 - 🌱 I’m currently learning **Next.js, Tailwind CSS**
@@ -13,8 +11,6 @@
 - 💬 Ask me about **collaborating, I like brainstorming project ideas with others!**
 
 - ⚡ Fun fact **I've been practicing archery for a year!**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
