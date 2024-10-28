@@ -1,4 +1,4 @@
-## Good day to you 👋
+## Hey there,
 
 <h3 align="center">Recent graduate of Nucamp from Southern Maryland!</h3>
 
