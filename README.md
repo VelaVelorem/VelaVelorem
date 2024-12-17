@@ -2,9 +2,9 @@
 
 <h3 align="center">Recent graduate of Nucamp from Southern Maryland!</h3>
 
-- 🔭 I’m currently working on **anime-database, Recipe Finder**
+- 🔭 I’m currently working on **book-store**
 
-- 🌱 I’m currently learning **TypeScript, Tailwind CSS**
+- 🌱 I’m currently learning **TypeScript, Jest**
 
 - 💬 Ask me about **collaborating, I like brainstorming project ideas with others!**
 
