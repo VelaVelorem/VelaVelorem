@@ -2,7 +2,7 @@
 
 <h3 align="center">Recent graduate of Nucamp from Southern Maryland!</h3>
 
-- 🔭 I’m currently working on **book-store**
+- 🔭 I’m currently working on **book-store & todo planner**
 
 - 🌱 I’m currently learning **TypeScript, Jest**
 
